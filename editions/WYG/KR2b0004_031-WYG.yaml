@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2b0004/WYG/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後漢紀卷三十
+  hash: sha256:26637614a8a21f4b79f602dcadef699880d6b1e300c7718f519887e01cf4605a
+metadata:
+  title: 後漢紀
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 23:08:39.226680'
+  source:
+    repository: kanripo
+    path: KR2b0004/KR2b0004_031.txt
+hash: sha256:4fc1dd949e73c79edfd7c96632c738dbcaf62f799d70eed987767f4e4ae96b8b

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2b0004/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周贍近乎通人之作然因藉史遷無所甄明荀悦才智經綸足為嘉史所述當世大得治功已矣然名教之本帝王髙義韞而未叙今因前代遺事畧舉義教所歸庶以𢎞敷王道補前史之闕古者方今不同其流亦異言行趨舍各以類書故觀其名跡想見其人丘明所以斟酌抑揚寄其髙懐末吏區區注疏而已其所稱美止於事義疏外之意歿而不𫝊其遺風餘趣蔑如也今之史書或非古之人心恐千載之外所誣者多所以悵怏躊躇操筆悢然者也
+  hash: sha256:cc33c9119e4978c81e1611a85467e1021b549cce9aef23c8de2f93efe0a8e991
+  markers:
+  - {type: page-break, offset: 136, content: '', id: KR2b0004_WYG_000-5a, image: WYG0303/WYG0303-0493c.png}
+metadata:
+  title: 後漢紀
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 23:08:39.226680'
+  source:
+    repository: kanripo
+    path: KR2b0004/KR2b0004_000.txt
+hash: sha256:aaec61fe541d974e949956c2bb083cc5ef908038b8611913bc1fa8ad599f92ae

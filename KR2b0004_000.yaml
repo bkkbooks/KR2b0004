@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2b0004/krp/v1/juan/0
+seq: 0
+front:
+  text: 後漢紀序
+  hash: sha256:03a555f591594c157db4500b71b76325f37fb9da2d2ab1ee694ecb06d2541b1b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0004_SBCK_000-1a}
+body:
+  text: 晉東陽太守袁豫嘗讀後漢書煩穢雜亂睡而不能竟也聊以暇日撰集為後漢紀其所掇㑹漢紀謝承書司馬彪書華嶠書謝忱書漢山陽公記漢靈獻起居注漢名臣奏㫄及諸郡耆舊先賢傳凡數百卷前史闕略多不次叙䥘謬同異誰使正之經營八季疲而不能定頗有傳者始見張璠所撰書其言漢末之事差詳故復探而益之夫史傳之興所以通古今而篤名教也丘明之作廣大悉備史遷剖判六家建立十書非徒記事而巳信足扶明義教網羅治體然未盡之班固源流周贍近乎通人之作然因籍史遷無所甄明荀恱才智經綸足為嘉史所述當世大得治功巳矣然名教之本帝王髙義韞而未叙今因前代遺事略舉義教所歸庶以弘敷王道前史之闕古者方今不同其流亦異言行趣舍各以類書故觀其名迹想見其人丘明所以斟酌抑揚寄其髙懷末吏區區注疏而巳其所稱美止於事義疏外之意歿而不傳其遺風餘趣蔑如也今之史書或非古之人心恐千載之外所誣者多所以悵怏躊躇操筆悢然者也
+  hash: sha256:631c9fac3316cc3415fd0bce60559b49ccdeccfd64d4ca4b9a41c03b0ae1eac0
+metadata:
+  title: 後漢紀
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-10 23:08:39.226680'
+  source:
+    repository: kanripo
+    path: KR2b0004/KR2b0004_000.txt
+hash: sha256:daeb2f293bb77fe0015530cc6cfbf2951669457e5dfb85d3e1ab574ecf0c2472
