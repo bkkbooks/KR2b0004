@@ -13,6 +13,7 @@ markers:
   - {type: variant, offset: 7, length: 1, content: 卷, WYG: ''}
   - {type: punctuation, offset: 11, content: (, id: KR2b0004_krp_020-bkkpn1}
   - {type: variant, offset: 11, length: 6, content: 桓帝附袁宏元, WYG: 永}
+  - {type: voice, offset: 11, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 14, content: ), id: KR2b0004_krp_020-bkkpn2}
   - {type: variant, offset: 14, length: 1, content: 袁, SBCK: 􅀽}
   - {type: 'kr:newline', offset: 16, content: '
@@ -1207,4 +1208,4 @@ markers:
       ', id: KR2b0004_krp_020-bkkkrnewl181}
   - {type: variant, offset: 3286, length: 0, content: '', WYG: 客}
   back: []
-hash: sha256:9820b1aa1c5d484ea9e46570ba1271fb934a9173770c3325b6fc4043d8d4178e
+hash: sha256:eeb76ea3fbb61485c1c23150a2113b2cd8591bc25c54f689cbec2e3748d0a40f
