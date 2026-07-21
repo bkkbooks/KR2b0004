@@ -47,7 +47,7 @@ assets:
   - {seq: 27, filename: KR2b0004_027-WYG.yaml, hash: 'sha256:b962888b090c0651f34a5e953f99ea70084e26229e80026cd1c088d2e9eb71dd'}
   - {seq: 28, filename: KR2b0004_028-WYG.yaml, hash: 'sha256:bd31fa3a426142ecf7d5c5c87b1e6fc6722f402766a640239ae2ec6f2b50f8be'}
   - {seq: 29, filename: KR2b0004_029-WYG.yaml, hash: 'sha256:848ea8e39d30841628e9ded323983c97126a7824b2818ceec13a7b69101aea69'}
-  - {seq: 30, filename: KR2b0004_030-WYG.yaml, hash: 'sha256:be0033681a260567f0575472bc4a25624f44f52df0284fd554b2c096ae740ebb'}
+  - {seq: 30, filename: KR2b0004_030-WYG.yaml, hash: 'sha256:d1c4c3585f2471d1285cfa06bbca202d34e4deb0e26666f7020a473d6d7ada7d'}
   - {seq: 31, filename: KR2b0004_031-WYG.yaml, hash: 'sha256:4fc1dd949e73c79edfd7c96632c738dbcaf62f799d70eed987767f4e4ae96b8b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR2b0004_000-WYG.markers.yaml, hash: 'sha256:cfac4ec74d0ca94e4bba43817819a26820e806b8ab00b2d65dcbbc6a4154b5eb'}
@@ -80,7 +80,7 @@ assets:
   - {seq: 27, role: markers, filename: assets/KR2b0004_027-WYG.markers.yaml, hash: 'sha256:9fe458df893751d8b1958d7a46a6bbc80c269dacfe865eeff8d7e65e10bb7b80'}
   - {seq: 28, role: markers, filename: assets/KR2b0004_028-WYG.markers.yaml, hash: 'sha256:d750d5adea8d15d326a70c867025a1e1c48d4be688cae7f2f23b68430a7e4f79'}
   - {seq: 29, role: markers, filename: assets/KR2b0004_029-WYG.markers.yaml, hash: 'sha256:8182a9d801f294f5a1859f7b0dbd5837c45e78679c4a855bc5d8620c0fccd4c9'}
-  - {seq: 30, role: markers, filename: assets/KR2b0004_030-WYG.markers.yaml, hash: 'sha256:477f6db87ae300092644c2369745970319c9d950d9504f00d368adfdcc126c16'}
+  - {seq: 30, role: markers, filename: assets/KR2b0004_030-WYG.markers.yaml, hash: 'sha256:d7165d84a63ca5cdee4159ab4fb749271ac637fa0bd3ab40fadf6c77d0dafbb8'}
   - {seq: 31, role: markers, filename: assets/KR2b0004_031-WYG.markers.yaml, hash: 'sha256:ab8ec6832a91438792bb171d867ef3307abc1566d55ab6bcd876965658099951'}
 table_of_contents:
 - ref:
@@ -388,8 +388,8 @@ table_of_contents:
     marker_id: KR2b0004_WYG_029-1b
     span:
     - body
-    - 0
-    - 0
+    - 8282
+    - 8282
   label: juan 030
   type: section
   level: 1
@@ -403,4 +403,4 @@ table_of_contents:
   label: juan 031
   type: section
   level: 1
-hash: sha256:f4933fe74d2373f789028b7fe736495ca9f1cb36f2f0737a245aaa7b321dd32f
+hash: sha256:0b8fbbdfc8cf11900eb3d30481a903a45139bde1688378570aaa6ec4019f1d7c
